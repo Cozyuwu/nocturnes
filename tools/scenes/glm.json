@@ -1,0 +1,82 @@
+{
+  "note": "GLM: the fox going through her case files in the attic above the rain, her hair moving",
+  "near": [
+    [
+      0.5,
+      0.28,
+      1.0,
+      1.0
+    ]
+  ],
+  "hair": {
+    "points": [
+      [
+        0.795,
+        0.43
+      ],
+      [
+        0.8,
+        0.52
+      ],
+      [
+        0.81,
+        0.6
+      ],
+      [
+        0.83,
+        0.67
+      ],
+      [
+        0.86,
+        0.64
+      ]
+    ],
+    "tol": 8,
+    "box": [
+      0.74,
+      0.39,
+      0.93,
+      0.715
+    ]
+  },
+  "glow": [
+    [
+      0.89,
+      0.525,
+      0.06,
+      "#ffcf8a",
+      "#ff9a3c"
+    ],
+    [
+      0.78,
+      0.09,
+      0.04,
+      "#eef3ff",
+      "#9fb8ff"
+    ]
+  ],
+  "lights": {
+    "rule": "bright",
+    "skip": [
+      [
+        0.5,
+        0.34,
+        1.0,
+        1.0
+      ],
+      [
+        0.5,
+        0.0,
+        0.88,
+        0.37
+      ]
+    ]
+  },
+  "tones": 18,
+  "far": {
+    "eps": 2.8,
+    "min": 130
+  },
+  "beam": null,
+  "motes": null
+}

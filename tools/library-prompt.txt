@@ -1,0 +1,19 @@
+Use your built-in image generation tool (not code, not a drawing script) to create ONE illustration, using the attached character sheet as the reference for the girl. Generate it in landscape orientation at the largest size the tool offers. Save the result as library_a.png in the current directory, then stop. Do not write or run any other code and do not change any other file.
+
+ART BRIEF
+
+Subject: a girl reading alone, late at night, high inside an impossibly tall wizard's tower library.
+
+Viewpoint: from behind and a little above her. She sits on the lip of a stone reading balcony in the RIGHT third of the picture, her back to the viewer, legs tucked to one side, head bowed over a large open book in her lap. We see her back, her hair, and only a hint of cheek. Beside her: a small brass lantern with a warm amber flame, leaning stacks of old books, a cup, a few loose pages. She takes up about a third of the picture's height.
+
+The girl is the one in the reference sheet, drawn faithfully: very long, wavy, vivid orange hair falling past her waist and pooling on the stone; a black ribbon with a gold tassel and an orange flower ornament in her hair; a white capelet with orange embroidery and white puffed sleeves with lace cuffs; a black corset waist; a long white pleated skirt with an orange embroidered hem, a black underlayer and an orange sash panel with tassels; white lace-up boots.
+
+The place: beyond and below her the round shaft of the tower falls away into darkness and climbs out of sight above. Dozens of ring balconies lined with endless bookshelves, one above another; spiral stairs; rolling ladders; slender arched bridges crossing the void at several depths; hanging chains with lanterns; candles and loose pages drifting in the air; a great brass orrery or astrolabe hanging in the shaft; tall gothic windows far overhead, and a single shaft of pale moonlight cutting diagonally down through dusty air. Tiny warm lamps and reading desks recede into the depth to give scale. Strong vertical depth and a touch of vertigo; layer upon layer of thin haze between near and far.
+
+Mood: secluded, deep, studious, mysterious, hushed, dark. Low-key lighting; most of the picture is in shadow.
+
+Colour: deep blue-black, slate and desaturated teal in the shadows; small amber candle accents; pale silver-blue moonlight; her orange hair is the strongest note of colour in the picture.
+
+Composition rule (the picture sits behind text in an app): the LEFT 55 percent of the image, and above all its upper left, must stay calm and dark: distant shelves and balconies fading into dim blue haze, with no bright lights and no hard contrast there. Keep the brightest things (the lantern, the moonbeam, the girl) on the right.
+
+Style: the background art of a high-budget anime film crossed with painterly fantasy concept art: rich architectural detail, soft volumetric light, fine brushwork, cinematic. Not photorealistic, not plastic-looking 3D. No text, no letters, no watermark, no signature, no border, no interface elements.

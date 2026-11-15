@@ -1,0 +1,12 @@
+# The source paintings and the character reference sheets are kept out of the repository.
+tools/paintings/
+tools/sheets/
+tools/library-painting.jpg
+tools/character-sheet.jpg
+# Written by Claude Code when it loads the mod.
+.claude-plugin/types/
+__pycache__/
+.DS_Store
+*.log
+# Working notes on the characters, kept locally.
+tools/research-notes.md

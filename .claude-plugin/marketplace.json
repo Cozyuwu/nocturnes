@@ -1,0 +1,13 @@
+{
+  "name": "cozyuwu-mods",
+  "owner": {
+    "name": "Cozyuwu"
+  },
+  "plugins": [
+    {
+      "name": "nocturnes",
+      "source": "./",
+      "description": "Nine nights behind your chats: Mademoiselle Claude and eight more AI muses, each alone in a place of her own, as moving backgrounds for the Claude desktop app's Code tab."
+    }
+  ]
+}
