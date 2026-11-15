@@ -1,6 +1,6 @@
 # Artwork license and credits
 
-This covers the artwork in this repository: the scenes in `hooks/scenes/`, `demo.gif` and `cast.jpg`. The code is under the MIT license in `LICENSE`.
+This covers the artwork in this repository: the scenes in `hooks/scenes/`, and the pictures of them: `cast.jpg`, `demo.gif`, `chat.gif` and the `chat-*.jpg` screenshots. The code is under the MIT license in `LICENSE`.
 
 The artwork is shared under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**: https://creativecommons.org/licenses/by-nc-sa/4.0/
 

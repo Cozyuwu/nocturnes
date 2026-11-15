@@ -6,9 +6,11 @@ Nine nights behind your chats. Each belongs to one of the Bilibili community's A
 
 This mod sets them behind the chat in the Claude desktop app's Code tab.
 
-![All nine, each in her own scene](cast.jpg)
+![A chat in the Claude app; the scene behind it changes from one muse to the next](chat.gif)
 
 ## The nine
+
+![All nine, each in her own scene](cast.jpg)
 
 In any chat, type `/muse` and a name:
 
@@ -25,6 +27,11 @@ In any chat, type `/muse` and a name:
 | `minimax` | an empty sound stage, listening to the conch |
 
 `/muse` on its own seats whoever is next, and so does a click on the small ☾ beside the prompt. Your choice is remembered.
+
+<p>
+  <img src="chat-deepseek.jpg" width="49%" alt="A chat with DeepSeek's kitchen under the sea behind it">
+  <img src="chat-kimi.jpg" width="49%" alt="A chat with Kimi's far side of the moon behind it">
+</p>
 
 The first of them is Mademoiselle Claude, *la demoiselle qui a tout lu*: the daughter of an old house, raised among its books and long since through all of them.
 
